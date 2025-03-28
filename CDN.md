@@ -146,8 +146,7 @@ npm install -g @cloudflare/wrangler
 ```
 
 > 📚 منابع بیشتر:  
-> - [CDN Benchmark Report 2023](https://example.com/cdn-report)  
-> - [OWASP CDN Security Guide](https://example.com/cdn-security)
+> - [OWASP CDN Security Guide](https://cheatsheetseries.owasp.org/index.html)
 ``` 
 
 این فایل README به صورت Markdown نوشته شده و قابل استفاده در مخازن GitHub است. برای اطلاعات بیشتر به مستندات رسمی سرویس‌دهندگان CDN مراجعه کنید.
